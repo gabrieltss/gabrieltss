@@ -1,53 +1,75 @@
-# Apresentação 🚀
+<span align="center">
 
 
-Olá, meu nome é Gabriel e eu trabalho como QA há 6 meses. Nesse período, eu adquiri experiência com:
+## *Hello, I am Gabriel, welcome to my GitHub profile!*
 
-1. [Planejamento de testes](#planejamento-de-testes)
-2. [Testes manuais](#testes-manuais)
-3. [Testes automatizados](#testes-automatizados)
+</span>
 
-## Planejamento de testes 📝
+<span align="justify">
+  
+Hello everyone! Today I would like to share a little about my professional experience with you. I have experience in the electrical field, but recently decided to change careers and started working in the software quality area as a QA. For over 6 months I have been studying and working with it and I am very excited about the new opportunities and challenges that this change has brought me. My experience in the electrical field provided me with a solid foundation for my transition to the software quality area and I am looking forward to continuing to learn and grow in this new career.
+  
+</span>
 
-### Metodologia ágil
+#
 
-- Eu utilizo a metodologia ágil para definir os requisitos e os critérios de aceitação dos testes.
-- Eu participo das cerimônias do Scrum, como sprint planning, daily meeting, sprint review e sprint retrospective.
+<span align="center">
+  
+<div align="center">
+  <a href="https://github.com/gabrieltss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltss&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltss&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+<div style="display: inline_block"><br>
 
-### Casos de teste
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,cs" />
+  </a>
 
-- Eu elaboro casos de teste baseados nos cenários de uso e nas regras de negócio.
-- Eu priorizo os testes de acordo com o risco e o valor para o cliente.
+</p>
+  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gherkin,jenkins,kubernetes,selenium" />
+  </a>
+ </p>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,vscode,idea" />
+  </a>
+ </p>
 
-## Testes manuais 🖱️
+</div>
+  
+ 
+<div> 
 
-### Execução dos testes
+<div> 
 
-- Eu executo os testes manuais seguindo os casos de teste previamente definidos.
-- Eu uso diferentes navegadores e dispositivos para testar a compatibilidade e a responsividade da aplicação.
+  <a href = "mailto:gtrindadesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/trindadeqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+ 
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
+  </span>
+  
+<span align="justify">
+ 
+# Academic Background:
 
-### Registro dos resultados
+- ⚙  Electrical Engineering (University of São Paulo) (2019 - 2022)
 
-- Eu registro os resultados dos testes e os defeitos encontrados em uma ferramenta de gerenciamento de testes.
-- Eu faço o acompanhamento dos defeitos até a sua correção e verificação.
+- 👨‍💻 Systems Analysis and Development (Mackenzie Presbyterian University) (2022 - Present)
+  
 
-## Testes automatizados 🤖
+# International Title Certification: 
 
-### Selenium em Java
-
-- Eu estou estudando testes automatizados com Selenium em Java para aumentar a eficiência e a cobertura dos testes.
-- Eu estou aprendendo a criar scripts de teste que simulam as ações do usuário na interface web.
-
-### Frameworks e boas práticas
-
-- Eu estou aprendendo a usar frameworks e boas práticas para organizar e manter os scripts de teste.
-- Eu estou aprendendo a usar padrões de projeto, como Page Object Model, Data Driven Testing e Keyword Driven Testing.
-
-## Contatos 📱
-
-Você pode entrar em contato comigo pelos seguintes meios:
-
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red)](mailto:gtrindadesilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/trindadeqa/)
-
-
+- 🎖️  Studying for the *Certified Tester Foundation Level (CTFL)* title at ISTQB.org
+ 
+  
+</span>

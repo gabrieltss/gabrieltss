@@ -17,8 +17,8 @@ Hello everyone! Today I would like to share a little about my professional exper
   
 <div align="center">
   <a href="https://github.com/gabrieltss">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieltss&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltss&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrieltss&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltss&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
 
